@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gmail-clone/static/css/main.5a416540.css",
-    "main.js": "/gmail-clone/static/js/main.84fc955a.js",
+    "main.js": "/gmail-clone/static/js/main.08a8a1d4.js",
     "static/media/Duke_profile.png": "/gmail-clone/static/media/Duke_profile.8322cf89398b93af1b96.png",
     "index.html": "/gmail-clone/index.html",
     "main.5a416540.css.map": "/gmail-clone/static/css/main.5a416540.css.map",
-    "main.84fc955a.js.map": "/gmail-clone/static/js/main.84fc955a.js.map"
+    "main.08a8a1d4.js.map": "/gmail-clone/static/js/main.08a8a1d4.js.map"
   },
   "entrypoints": [
     "static/css/main.5a416540.css",
-    "static/js/main.84fc955a.js"
+    "static/js/main.08a8a1d4.js"
   ]
 }
